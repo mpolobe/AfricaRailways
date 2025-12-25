@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Africa Railways - Your Digital Journey",
+  "description": "A comprehensive railway management and reporting tool for Africa, featuring a digital wallet, live trip tracking, and an AI-powered travel assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
